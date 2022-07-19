@@ -1,0 +1,2 @@
+# README
+Dracula custom theme

@@ -1,0 +1,22 @@
+{
+    "name": "dracula-darker-custom",
+    "displayName": "Dracula Darker Custom",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "abouscarel",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Custom Dracula Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Custom Dracula Darker-color-theme.json"
+            }
+        ]
+    }
+}
